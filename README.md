@@ -1,4 +1,18 @@
-### Hi there everyone! 👋
+## Hi there everyone! 👋
+
+#### I am Prasad Ware 
+A **Computer Engineering** student! and a *Coding enthusiast!* <br>
+- 🌱 I’m currently learning :
+    - C++
+    - Web development
+    
+
+
+
+
+
+
+
 
 <!--
 **Prasad-D-Ware/Prasad-D-Ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
