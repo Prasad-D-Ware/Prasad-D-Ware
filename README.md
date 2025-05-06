@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif"  />
 
 ###
 
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maroudesouza/maroudesouza/output/snake.svg" alt="Snake animation" />
 
 ###
