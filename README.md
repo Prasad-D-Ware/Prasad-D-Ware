@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/e0/57/ff/e057ff92ecd07a11b375f7727ba661b3.gif"  />
 
 ###
 
